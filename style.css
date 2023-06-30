@@ -526,7 +526,7 @@ main .sobre {
 
 .resumeGenerica .experienceContent div {
     background-color: #222;
-    animation: ladoSecao .5s ease-in-out forwards;
+    animation: ladoSecao .7s ease-in-out forwards;
     display: none;
     padding: 40px;
     position: relative;
@@ -575,7 +575,7 @@ main .sobre {
 .resumeGenerica .educationContent div {
     background-color: #222;
     padding: 40px;
-     animation: ladoSecao .5s ease-in-out forwards;
+     animation: ladoSecao .7s ease-in-out forwards;
     display: none;
     position: relative;
 }
