@@ -840,6 +840,10 @@ mySkill {
     animation: animationImagemButton 2s ease-in-out forwards;
 }
 
+.projectsArmazenamento ul li a {
+    display: block;
+}
+
 .projectsArmazenamento ul li img {
     max-width: 100%;
     height: 100%;
